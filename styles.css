@@ -1,0 +1,9 @@
+/* Diagnostic Styling */
+* {
+  outline: 1px dotted gray; 
+}
+
+/* temp background color */
+body {
+    background: salmon;
+  }
