@@ -1,9 +1,13 @@
-/* Diagnostic Styling */
-* {
-  outline: 1px dotted gray; 
+#confetti {
+  background: lightblue;
+  padding: 1em;
+  border-radius: 1em;
 }
 
-/* temp background color */
+/* optional styling */
+/* center the child by centering the parent */
 body {
-    background: salmon;
-  }
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
